@@ -1,5 +1,6 @@
 # Python-GUI-libary
-this repository collated some python gui libary  
+this repository collated some python gui package  
+welcome anyone to add other package  
 
 ## [Tkinter](https://docs.python.org/3/library/tkinter.html)  
 The tkinter package (“Tk interface”) is the standard Python interface to the Tcl/Tk GUI toolkit.   
