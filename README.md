@@ -1,4 +1,4 @@
-# Python-GUI-libary
+# Python-GUI-package
 this repository collated some python gui package  
 welcome anyone to add other package  
 
